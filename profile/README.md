@@ -1,67 +1,38 @@
 # Entroxx Development
 
-**Entroxx Development** is a software group specializing in advanced **Discord bot development** and automation solutions.  
-We create efficient, secure, and scalable bots designed to enhance communication, moderation, and productivity within Discord communities.
+Entroxx Development is a small project focused on **embedded systems** and **microcontroller-based development**.  
+We build practical, efficient projects using Arduino and ESP32, with an emphasis on real-world applications.
 
 ---
 
-## About Us
-At Entroxx Development, our focus is on building **powerful and intuitive tools** for Discord servers of all sizes.  
-We combine modern technologies with clean, reliable code to deliver high-performance bots that work seamlessly in any environment.
-
-**Our values:**
-- **Reliability** – consistent performance and uptime.  
-- **Efficiency** – lightweight, optimized codebases.  
-- **Design** – intuitive commands and user-friendly functionality.  
-- **Support** – responsive maintenance and updates.
+## What We Build
+- Arduino-based projects  
+- ESP32 systems (Wi-Fi / Bluetooth / IoT)  
+- Sensors, automation, and control logic  
+- Hardware–software integration  
 
 ---
 
-## Services
-We provide a wide range of development and integration solutions for Discord:
-- Custom bot development (from concept to deployment)
-- Roleplay and department management systems
-- Advanced moderation and logging tools
-- Ticketing and support bots
-- Economy and ranking systems
-- Server automation and API integrations
-
-If you have a unique idea, we can help bring it to life.
+## Tech Stack
+- Arduino (C/C++)  
+- ESP32  
+- Serial, I2C, SPI communication  
+- Sensors & modules  
+- Linux-based development environments  
 
 ---
 
-## Technologies
-Our projects are built with industry-standard tools and frameworks:
-- **Python** (Pycord, discord.py)
-- **MongoDB / JSON** – database and data management
-- **Docker / GitHub Actions** – deployment and CI/CD
-- **Linux environments** – hosting and scalability
-
----
-
-## Featured Projects
-
-| Project | Description | Status |
-|----------|--------------|--------|
-| **wtx's Commissions Utilities** | Custom bot made for a design server. | In Development |
+## Philosophy
+Simple designs. Clean code. Real hardware.  
+Projects that work in the real world — not just on a screen.
 
 ---
 
 ## Contact
-For inquiries, partnerships, or custom bot requests, please reach out to us through one of the following channels:
-
-- **Discord:** entroxx  
-- **Email:** entroxx4@gmail.com  
-- **GitHub:** [github.com/EntroxxDevelopment](https://github.com/Entroxx-Development)
+- GitHub: https://github.com/EntroxxDevelopment  
+- Email: entroxx4@gmail.com
+- Discord: entroxx  
 
 ---
 
-## Mission
-Our mission is to make Discord communities more dynamic, efficient, and connected through automation and modern technology.  
-We believe in delivering solutions that not only work — but last.
-
-> **Entroxx Development** — Innovating the way communities connect.
-
----
-
-© 2025 Entroxx Development. All rights reserved.
+© 2026 Entroxx Development. All rights reserved.
