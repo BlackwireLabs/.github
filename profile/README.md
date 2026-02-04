@@ -1,7 +1,7 @@
-# Blackwire Labs
+# Tracenix Labs
 
-Blackwire Labs is a small project focused on **embedded systems** and **microcontroller-based development**.  
-We build practical, efficient projects using Arduino and ESP32, with an emphasis on real-world applications.
+Tracenix Labs is a personal project focused on **embedded systems** and **microcontroller development**.  
+We build practical, hardware-driven solutions using Arduino and ESP32.
 
 ---
 
@@ -13,26 +13,24 @@ We build practical, efficient projects using Arduino and ESP32, with an emphasis
 
 ---
 
-## Tech Stack
-- Arduino (C/C++)  
-- ESP32  
-- Serial, I2C, SPI communication  
-- Sensors & modules  
-- Linux-based development environments  
+## Philosophy
+Clean code. Simple designs. Real hardware.  
+Built close to the metal with reliability in mind.
 
 ---
 
-## Philosophy
-Simple designs. Clean code. Real hardware.  
-Projects that work in the real world — not just on a screen.
+## Tech
+- Arduino (C/C++)  
+- ESP32  
+- Serial, I2C, SPI  
+- Sensors & electronic modules  
 
 ---
 
 ## Contact
-- GitHub: https://github.com/BlackwireLabs  
-- Email: entroxx4@gmail.com
-- Discord: entroxx  
+- GitHub: https://github.com/TracenixLabs  
+- Email: entroxx4@gmail.com  
 
 ---
 
-© 2026 Blackwire Labs. All rights reserved.
+© 2026 Tracenix Labs. All rights reserved.
